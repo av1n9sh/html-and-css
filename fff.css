@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(156, 46, 46);
+}
+
+h5 {
+    text-align: center;
+    background-color: lavender;
+    color: rgb(28, 77, 170);
+}
+div {
+    background-color: khaki;
+    height: 250px;
+}
+span {
+    background-color: lightgreen ;
+}
+#abc {
+    text-align: center;
+    background-color: green;
+}
+p {
+    font-size: 40px;
+    color: lightskyblue;
+}
+h1 {
+    color: mistyrose;
+}
